@@ -1,19 +1,14 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Project Name:
+  Hello Microverse
 
-> Description the project.
+> The project is aimed to create 3 files (HTML, CSS and test.md file) upholding the professional documentation standards
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
+- HTML,CSS
 
 
 ## Getting Started
@@ -25,32 +20,16 @@
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
+- Have git installed.
+- Have text editor installed.
 
 
 ## Authors
 
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+👤
+- GitHub: [@debby_miressa](https://github.com/DebbyMiressa)
+- Twitter: [@debby_miressa](https://twitter.com/debby_miressa)
+- LinkedIn: [@debby_miressa](linkedin.com/in/debby-miressa-0b85b6182)
 
 ## 🤝 Contributing
 
@@ -64,9 +43,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Hat tip to anyone whose code was used.
 
 ## 📝 License
 
